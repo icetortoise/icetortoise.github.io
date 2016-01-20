@@ -20,12 +20,13 @@
     </item>
     
     <item>
-      <title>about</title>
+      <title>about this site</title>
       <link>http://icetortoise.github.io/about/</link>
       <pubDate>Wed, 20 Jan 2016 13:50:36 -0500</pubDate>
       
       <guid>http://icetortoise.github.io/about/</guid>
-      <description></description>
+      <description>&lt;p&gt;主要用于记录平时看的书和其他乱七八糟的想法&lt;/p&gt;
+</description>
     </item>
     
   </channel>
