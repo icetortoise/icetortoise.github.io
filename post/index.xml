@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Notes and Thoughts</title>
-    <link>http://icetortoise.github.io/</link>
-    <description>Recent content on Notes and Thoughts</description>
+    <title>Posts on Notes and Thoughts</title>
+    <link>http://icetortoise.github.io/post/</link>
+    <description>Recent content in Posts on Notes and Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Jan 2016 13:45:39 -0500</lastBuildDate>
-    <atom:link href="http://icetortoise.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://icetortoise.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>first</title>
@@ -17,15 +17,6 @@
       <guid>http://icetortoise.github.io/post/first/</guid>
       <description>&lt;p&gt;testing&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>http://icetortoise.github.io/about/</link>
-      <pubDate>Wed, 20 Jan 2016 13:45:28 -0500</pubDate>
-      
-      <guid>http://icetortoise.github.io/about/</guid>
-      <description></description>
     </item>
     
   </channel>
